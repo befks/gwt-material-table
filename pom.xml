@@ -77,15 +77,10 @@
   </licenses>
 
   <distributionManagement>
-    <snapshotRepository>
-      <id>ossrh</id>
-      <name>Sonatype Nexus snapshot repository</name>
-      <url>https://oss.sonatype.org/content/repositories/snapshots</url>
-    </snapshotRepository>
     <repository>
-      <id>sonatype-nexus-staging</id>
-      <name>Sonatype Nexus release repository</name>
-      <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+      <id>fks</id>
+      <name>FKS repository</name>
+      <url>http://maven.fks.be/repository/fks/</url>
     </repository>
   </distributionManagement>
 
