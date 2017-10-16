@@ -10,7 +10,7 @@
   </parent>
 
   <artifactId>gwt-material-table</artifactId>
-  <version>2.0-fks-2017-09-27a</version>
+  <version>2.0-fks-2017-10-16</version>
 
   <name>Gwt Material Table</name>
   <description>A complex table component designed for the material design specifications</description>
